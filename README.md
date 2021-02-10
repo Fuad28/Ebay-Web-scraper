@@ -5,4 +5,6 @@ This scraper scraps mens' watches section of ebay. It could be extended and more
 * Beautiful Soup: Used to scrap the site
 * Requests: USed to get the html script of a page which would eventually be passed to a soup object
 * CSV module: Used to write the scraped items to a CSV file
+* concurrent module: Used the ThreadPoolExecutor of the futures subpackage of the concurrent module to speed up the script.
+
 
