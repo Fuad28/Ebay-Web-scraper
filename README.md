@@ -8,3 +8,4 @@ This scraper scraps mens' watches section of ebay. It could be extended and more
 * concurrent module: Used the ThreadPoolExecutor of the futures subpackage of the concurrent module to speed up the script.
 
 
+*For more information, visit: https://youtu.be/m4hEAhHHykI
